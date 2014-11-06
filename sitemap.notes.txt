@@ -1,0 +1,20 @@
+Sitemap
+
+Home
+
+* Features, Benefits, Value
+* Showcase
+* History, Drivers, Existing Community, Contacts
+
+Community
+
+* Participate: Sign up, Mailing lists, Events, Task Forces
+* Adopt: Software, Matrix, Get Started
+* Documents: Process, Charter, MoU, etc
+
+Developers
+
+* Tools: validators, fixtures, libs, 
+* Learn:  Tutorials, presentations, 
+* Use:  content providers
+* Documents:  Specs

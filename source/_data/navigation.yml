@@ -1,15 +1,16 @@
 -
-  name: About
+  name: See
+  url: http://showcase.iiif.io/
+-
+  name: Learn
   url: /about.html
 -
-  name: Technical Details
-  url: /technical-details.html
+  name: Install
+  url: /solutions.html
 -
-  name: "Apps &amp; Demos"
-  url: /apps-demos.html
--
-  name: Community
+  name: Participate
   url: /community.html
+ 
 -
-  name: News
-  url: /news/
+  name: Develop
+  url: /technical.html
